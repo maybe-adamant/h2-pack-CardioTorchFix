@@ -5,7 +5,7 @@
 ## Features
 
 - Fixes a bug that prevented Hestia's "Cardio Gain" boon from triggering when hitting enemies with the Torch's special attacks.
-- Ensures that you correctly regain mana when damaging enemies with the Torch's Omega Special.
+- Ensures that you correctly regain mana when damaging enemies with the Supay auto firing specials
 
 ## Installation
 
