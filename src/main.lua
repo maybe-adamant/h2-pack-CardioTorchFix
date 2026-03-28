@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Cardio Gain interactions with Torch specials.",
     default  = true,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
